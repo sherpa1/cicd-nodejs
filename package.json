@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/sherpa1/cicd-nodejs#readme",
   "devDependencies": {
-    "jest": "^29.3.1",
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "jest": "^29.3.1"
   }
 }
