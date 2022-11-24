@@ -1,0 +1,25 @@
+{
+  "name": "cicd-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest",
+    "watch": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherpa1/cicd-nodejs.git"
+  },
+  "author": "Alexandre Leroux (alex@sherpa.one)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sherpa1/cicd-nodejs/issues"
+  },
+  "homepage": "https://github.com/sherpa1/cicd-nodejs#readme",
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "nodemon": "^2.0.20"
+  }
+}
